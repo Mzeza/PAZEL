@@ -1,10 +1,5 @@
-@font-face {
-  font-family: vazir;
-  src: url(Vazirmatn-Light.ttf);
-}
 * {
   box-sizing: border-box;
-  font-family: vazir;
 }
 body {
   margin: 0;
